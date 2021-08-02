@@ -11,8 +11,10 @@
   <li>捕捉</li>
   <li>消滅</li>
 </ul>
-  量個視力吧，對幾題?<input type="text">
-  <form action="/formprocess.php" method="post">
+  量個視力吧，對幾題?<input placeholder="對幾題?">
+  <input type="file" accept="image/*" capture>
+  <input type="file" accept="video/*" capture="environment">
+  <form action="slow9663@gmail.com" method="post">
 
     <p>Name:</p>
     <p><input type="text" name="name" value="暱稱"></p>
