@@ -6,5 +6,12 @@
 見蚊子就打???
 <say>do your best!!
 <p>hi. <code>how are you?</code> What are you doing?</p>
-<iframe src="https://scratch.mit.edu/projects/552343423/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<say>三步驟
+  <ul>
+  <li>尋找</li>
+  <li>捕捉</li>
+  <li>消滅</li>
+</ul>
+  量個視力吧，對幾題?<input type="text">
+  <iframe src="https://scratch.mit.edu/projects/552343423/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 <iframe width="900" height="506" src="https://www.youtube.com/embed/pA3zgvaMLpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
