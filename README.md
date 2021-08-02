@@ -4,6 +4,7 @@
 蚊子不只會引發各種疾病,還很討厭 :(
 為了打造美好的生活空間
 見蚊子就打???
-<say>do
+<say>do your best!!
+<p>hi. <code>how are you?</code> What are you doing?</p>
 <iframe src="https://scratch.mit.edu/projects/552343423/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 <iframe width="900" height="506" src="https://www.youtube.com/embed/pA3zgvaMLpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
