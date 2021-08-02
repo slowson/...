@@ -24,8 +24,8 @@
     <p><textarea name="comments" rows="5" cols="20">回答</textarea></p>
 
     <p>最討厭的東西:</p>
-    <p><input type="radio" name="interest" value="html"> HTML</p>
-    <p><input type="radio" name="interest" value="css"> CSS</p>
+    <p><input type="radio" name="interest" value="蚊子"> 蚊子</p>
+    <p><input type="radio" name="interest" value="蟑螂"> 蟑螂</p>
 
     <p><input type="submit" value="送出"></p>
 
