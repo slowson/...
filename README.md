@@ -4,4 +4,13 @@
 蚊子不只會引發各種疾病,還很討厭 :(
 為了打造美好的生活空間
 見蚊子就打???
+- name: First interaction
+  uses: actions/first-interaction@v1.1.0
+  with:
+    # Token for the repository. Can be passed in using {{ secrets.GITHUB_TOKEN }}
+    repo-token: 
+    # Comment to post on an individual's first issue
+    issue-message: # optional
+    # Comment to post on an individual's first pull request
+    pr-message: # optional
 <iframe src="https://scratch.mit.edu/projects/553765995/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
