@@ -1,17 +1,12 @@
-# welcome to slowson's place
-<input>螢幕前的各位
-<type>你們好嗎?
-  Int dog
-   INt set dog to 56
-  
-<say>do your best!!
-<say>三步驟
+# welcome to slowson's place!
+str=input('Hi? What is your name?')
+I made this website for nothing,and i also don't know where should i use it.
+<say>
   <ul>
-  <li>尋找</li>
-  <li>捕捉</li>
-  <li>消滅</li>
+  <li>?</li>
+  <li>!</li>
+  <li>?</li>
 </ul>
-  量個視力吧，對幾題?<input placeholder="對幾題?">
-  Form1:
-  
+  <input placeholder="just for fun?">
+  Let's test your eyes!
   <iframe src="https://scratch.mit.edu/projects/552343423/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
