@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<!-- Created with https://packager.turbowarp.org/ -->
 <html>
 <head>
   <meta charset="utf-8">
